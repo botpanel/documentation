@@ -7,8 +7,7 @@ This documentation assumes that you have already installed [BotPanel](https://de
 
 * [More on Vanity URLs](https://github.com/botpanel/documentation/edit/main/README.md#more-on-vanity-urls)
 * [Input Components](https://github.com/botpanel/documentation/edit/main/README.md#input-components)
-   * test
-   * test4
+   * [Text Input Components](https://github.com/botpanel/documentation/edit/main/README.md#text-input-components)
 
 # More on Vanity URLs
 
@@ -31,6 +30,6 @@ When clicking the `Add component` button on your user dashboard editor, a modal 
 | Variable Name | This is the name of the server variable that the input component will be stored into. For example: if I have a string input component with the variable name `welcomeMessage`, then when the value is saved from the user dashboard, the server data for the selected guild with name `welcomeMessage` will be updated to the value from the dashboard. |
 | Input Type    | Input type for the component.                                                                                                                                                                                                                                                                                                                           |
 
-## Text Input Component
+## Text Input Components
 
 The Text Input Component is used for collecting strings of data, or text.
