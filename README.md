@@ -5,15 +5,15 @@ This documentation assumes that you have already installed [BotPanel](https://de
 [Bot Panel w/ Bot Maker for Discord Integration Guide](https://github.com/botpanel/bmd)<br>
 [Bot Panel w/ Discord Bot Maker Integration Guide](https://github.com/botpanel/dbm)
 
-* [More on Vanity URLs](https://github.com/botpanel/documentation/edit/main/README.md#more-on-vanity-urls)
-* [Header Components](https://github.com/botpanel/documentation/edit/main/README.md#header-components)
-* [Input Components](https://github.com/botpanel/documentation/edit/main/README.md#input-components)
-   * [Text Input Components](https://github.com/botpanel/documentation/edit/main/README.md#text-input-components)
-   * [Number Input Components](https://github.com/botpanel/documentation/edit/main/README.md#number-input-components)
-   * [Checkbox Input Components](https://github.com/botpanel/documentation/edit/main/README.md#checkbox-input-components)
-   * [Select Input Components](https://github.com/botpanel/documentation/edit/main/README.md#select-input-components)
-   * [Channel Select Input Components](https://github.com/botpanel/documentation/edit/main/README.md#channel-select-input-components)
-   * [Role Select Input Components](https://github.com/botpanel/documentation/edit/main/README.md#role-select-input-components)
+* [More on Vanity URLs](https://github.com/botpanel/documentation#more-on-vanity-urls)
+* [Header Components](https://github.com/botpanel/documentation#header-components)
+* [Input Components](https://github.com/botpanel/documentation#input-components)
+   * [Text Input Components](https://github.com/botpanel/documentation#text-input-components)
+   * [Number Input Components](https://github.com/botpanel/documentation#number-input-components)
+   * [Checkbox Input Components](https://github.com/botpanel/documentation#checkbox-input-components)
+   * [Select Input Components](https://github.com/botpanel/documentation#select-input-components)
+   * [Channel Select Input Components](https://github.com/botpanel/documentation#channel-select-input-components)
+   * [Role Select Input Components](https://github.com/botpanel/documentation#role-select-input-components)
 
 # More on Vanity URLs
 
