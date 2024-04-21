@@ -6,6 +6,9 @@ This documentation assumes that you have already installed [BotPanel](https://de
 [Bot Panel w/ Discord Bot Maker Integration Guide](https://github.com/botpanel/dbm)
 
 * [More on Vanity URLs](https://github.com/botpanel/documentation#more-on-vanity-urls)
+* [Dashboard Sections](https://github.com/botpanel/documentation#dashboard-sections)
+   * [Basic Usage](https://github.com/botpanel/documentation#basic-usage)
+   * [Default Section](https://github.com/botpanel/documentation#default-section)
 * [Header Components](https://github.com/botpanel/documentation#header-components)
 * [Input Components](https://github.com/botpanel/documentation#input-components)
    * [Text Input Components](https://github.com/botpanel/documentation#text-input-components)
@@ -22,6 +25,14 @@ Vanity URLs are what your users use to access your bot, however your user dashbo
 `https://botpanel.xyz/dashboard/VANITY_URL` -> `https://botpanel.xyz/dashboard/APPLICATION_ID`
 
 As application IDs are unique UUIDv4 strings, vanity URLs are not allowed to match said pattern. Additionally all vanity URLs must only consist of alphanumerics, underscores, or dashes.
+
+# Dashboard Sections
+
+### Basic Usage
+Dashboard sections are the best way to organize content across multiple pages, such as "moderation," "welcome," etc. These can be modified by clicking the `Manage Sections` button in the top right of your developer dashboard. Type into the `Section Name` text input the desired title for your section and hit the + icon to the right. To select a section to edit, click on it from the list of your sections. To reorder your sections hold the three dot icon to the left of the section name in the `Manage Sections` dropdown. To edit the name of a section, click the pencil icon to the right of the section name, the section name will turn into a text input, type in the desired new name, then either hit the X icon if you wish to cancel the operation or the check icon if you wish to save, make sure you either save or publish your dashboard changes by hitting the `Save` button after doing this. To remove a section hit the trash icon to the right of the section title.
+
+### Default Section
+Sections can be named whatever you want, however there is one reserved section name called `DEFAULT`. The `DEFAULT` section is the first section shown to the user on their dashboard, think of it like a home section. It will not display on the left navbar on your client dashboard, and thus if you have no other sections it will appear that your application has no sections. If you dont have a `DEFAULT` section then the first section in your list of sections will be the section shown to the user when they navigate to their dashboard.
 
 # Header Components
 
